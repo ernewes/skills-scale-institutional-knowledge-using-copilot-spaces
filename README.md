@@ -1,16 +1,15 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+OctoAcme uses a customer-first, iterative project lifecycle with clear ownership, data-informed decisions, and psychological safety. Work moves through initiation, planning, execution, release, and retrospective/continuous improvement. Named Project Managers and Product Managers coordinate delivery and outcomes, while developers, QA, stakeholders, and other collaborators contribute through regular standups, planning, demos, risk tracking, status communication, and retrospectives. Quality is maintained through backlogs with acceptance criteria, automated CI and security checks, testing, release verification, rollback planning, and documented learnings.
 
-Hey ernewes!
+## Process documents
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ernewes/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution and Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management and Communication](docs/octoacme-risks-and-communication.md)
+- [Release and Deployment](docs/octoacme-release-and-deployment.md)
+- [Retrospective and Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](docs/octoacme-roles-and-personas.md)
 
